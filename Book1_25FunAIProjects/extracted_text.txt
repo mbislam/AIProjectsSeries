@@ -1,0 +1,29 @@
+Book Review Worksheet
+
+25 Fun Al Projects for Kids and Teens
+
+Name:
+Date:
+
+Project Reviewed:
+
+Read one project from the book and answer the following questions in complete sentences.
+Explain what you learned, what you built, and how artificial intelligence was used in the
+project.
+
+1. What is the main goal of this project?
+
+2, What AI concept did you learn?
+
+3. Which Python libraries or tools were used?
+
+4, What was the most interesting part of the project?
+
+5, How could this project be used in real life?
+
+6. What improvement would you add?
+
+7. What new idea did this project inspire you to build?
+
+8, Rate this project from 1 to 5 stars. Why?
+

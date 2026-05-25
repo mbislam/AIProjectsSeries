@@ -1,0 +1,26 @@
+
+============================================================
+Sarah Johnson
+Email: sarah@email.com
+Phone: 123-123-123
+============================================================
+
+SUMMARY
+Sarah Johnson is a skill-focused learner with interests in ai engineering. This resume highlights technical skills, project experience, and learning motivation.
+
+TECHNICAL AND PERSONAL SKILLS
+Python, Scratch, teamwork, problem-solving
+
+KEY PROJECT
+Project Title: Face Detection Camera
+Description: Developed a hands-on project that demonstrates
+problem solving, creativity, and technology skills.
+
+EDUCATION
+Grade 11, Sunshine High School
+
+ACTIVITIES AND LEADERSHIP
+Robotics Club, Coding Club, and Volunteer tutoring
+
+TARGET OPPORTUNITY
+Summer STEM Internship
