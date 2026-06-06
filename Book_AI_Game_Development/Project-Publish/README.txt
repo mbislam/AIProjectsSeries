@@ -117,6 +117,6 @@ AI Projects Series
 GITHUB REPOSITORY
 ----------------------------------------------------
 
-[Insert GitHub Repository Link Here]
+https://github.com/mbislam/AIProjectsSeries
 
 ====================================================
